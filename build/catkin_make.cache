@@ -1,0 +1,2 @@
+realsense_gazebo_plugin:tbot_sim
+-DCATKIN_DEVEL_PREFIX=/home/vlv/pointcloud_prjs/ws/devel -DCMAKE_INSTALL_PREFIX=/home/vlv/pointcloud_prjs/ws/install -G Unix Makefiles

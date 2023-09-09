@@ -1,0 +1,8 @@
+prefix=/home/vlv/pointcloud_prjs/ws/devel
+
+Name: tbot_sim
+Description: Description of tbot_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
